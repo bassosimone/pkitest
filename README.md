@@ -2,7 +2,7 @@
 
 [![GoDoc](https://pkg.go.dev/badge/github.com/bassosimone/pkitest)](https://pkg.go.dev/github.com/bassosimone/pkitest) [![Build Status](https://github.com/bassosimone/pkitest/actions/workflows/go.yml/badge.svg)](https://github.com/bassosimone/pkitest/actions) [![codecov](https://codecov.io/gh/bassosimone/pkitest/branch/main/graph/badge.svg)](https://codecov.io/gh/bassosimone/pkitest)
 
-The `pkitest` Go package allows simulating a Public Key Infrastructure (PKI) to
+The `pkitest` Go package simulates a Public Key Infrastructure (PKI) to
 write more realistic integration tests.
 
 Basic usage is like:
