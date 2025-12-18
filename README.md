@@ -81,3 +81,7 @@ go test -v -cover .
 ```
 SPDX-License-Identifier: GPL-3.0-or-later
 ```
+
+## History
+
+Adapted from [rbmk-project/rbmk](https://github.com/rbmk-project/rbmk/tree/v0.17.0/pkg/x/netsim/simpki).
