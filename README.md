@@ -14,7 +14,7 @@ import "github.com/bassosimone/pkitest"
 pki := pkitest.MustNewPKI("testdata")
 
 // 2. Create a configuration for your server's certificate.
-config := &SelfSignedCertConfig{
+config := &pkitest.SelfSignedCertConfig{
 	CommonName:   "www.example.com",
 	DNSNames:     []string{"www.example.com"},
 	IPAddrs:      []net.IP{net.IPv4(127, 0, 0, 1)},
