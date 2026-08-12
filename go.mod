@@ -4,7 +4,7 @@ go 1.25.5
 
 require (
 	github.com/bassosimone/runtimex v0.0.0-20260708083610-01df83158243
-	github.com/rogpeppe/go-internal v1.15.0
+	github.com/rogpeppe/go-internal v1.16.0
 	github.com/stretchr/testify v1.11.1
 )
 
