@@ -1,5 +1,5 @@
-github.com/bassosimone/runtimex v0.0.0-20260928111457-f2fe934d5065 h1:kTLEe+4NAR6bH3XZHNxegfwUKKDArQHoJCQhrFQNZOU=
-github.com/bassosimone/runtimex v0.0.0-20260928111457-f2fe934d5065/go.mod h1:2aW76skIZNS7ljOpIqU3eARVLmtb0AG/Gab4aegSkTA=
+github.com/bassosimone/runtimex v0.0.0-20261005144844-77dc639b0e90 h1:crpeakr4bPQGTsV25nbtVXB72cwfk1wnZc2HF3fE1KE=
+github.com/bassosimone/runtimex v0.0.0-20261005144844-77dc639b0e90/go.mod h1:2aW76skIZNS7ljOpIqU3eARVLmtb0AG/Gab4aegSkTA=
 github.com/rogpeppe/go-internal v1.16.0 h1:O9DK+vNMDVGLr2BeZqmpLeMjiMNkuXfcqntWbZV6S5g=
 github.com/rogpeppe/go-internal v1.16.0/go.mod h1:DrUVZyrJU+txYW5/1kwtXQSMFio52ZOxX7yM1VHvnxs=
 github.com/stretchr/testify v1.12.1 h1:EuwCh5fleGS7H32xRwO3wRGT7DxrDhLAT6FF8MpWDWE=
